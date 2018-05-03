@@ -1,0 +1,8 @@
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\bin\Release\pdf2table_extractor.exe.config
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\bin\Release\pdf2table_extractor.exe
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\bin\Release\pdf2table_extractor.pdb
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\obj\Release\pdftable_extractor.Form1.resources
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\obj\Release\pdf2table_extractor.Properties.Resources.resources
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\obj\Release\pdf2table_extractor.csproj.GenerateResource.Cache
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\obj\Release\pdf2table_extractor.exe
+C:\Users\walte\documents\visual studio 2017\Projects\pdf2table_extractor\pdf2table_extractor\obj\Release\pdf2table_extractor.pdb
